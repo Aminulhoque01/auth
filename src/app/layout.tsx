@@ -8,7 +8,7 @@ import { ConfigProvider } from "antd";
 import { Toaster } from "react-hot-toast";
 
 export const metadata: Metadata = {
-  title: " Antopolis",
+  title: " Apologies.",
   description: "Find the perfect job opportunity that matches your skills and experience. Browse job listings, apply with ease, and take the next step in your career.",
 };
  

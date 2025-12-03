@@ -6,7 +6,7 @@ import { useEffect } from "react";
 import { useDispatch } from "react-redux";
  
 
-export default function DashboardClient({ token }: { token: string }) {
+export default function Dashboard({ token }: { token: string }) {
   const dispatch = useDispatch();
 
   useEffect(() => {
