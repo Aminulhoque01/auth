@@ -2,6 +2,7 @@
 
  
  
+ 
 import Dashboard from "@/components/Pages/Home/Dashboard";
 import LoginPage from "@/components/Pages/Home/Login";
 import React from "react";
@@ -12,7 +13,7 @@ const Home = () => {
     <section className="">
       
       <LoginPage  />
-      <Dashboard/>
+      <Dashboard token=""/>
     </section>
   );
 };
